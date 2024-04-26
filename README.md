@@ -1,0 +1,1 @@
+Este es un ejemplo de un memorama con tematica de halo aniversary, se ha utilizado una estructura basica de html y se ha usado css para dar estilo al memorama, lo he hecho ya que es una practica de mis clases de programacion web, ademas de que halo 1 fue el primer shooter que jugue y lo recuerdo con mucho cariño.
