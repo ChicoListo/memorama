@@ -9,12 +9,14 @@
     border-radius: 5px;
     text-align: center;
     position: relative;
+    background-color: #1f1d1d;
 }
 
 .carta label {
     display: block;
     height: 200px;
     width: 180px;
+    background-color: #1f1d1d;
 }
 
 .reverso,
@@ -46,5 +48,8 @@
 }
 
 * {
-    background-color: #ccc;
+    background-color: #1f1d1d;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
